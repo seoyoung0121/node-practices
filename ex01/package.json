@@ -1,0 +1,12 @@
+{
+  "name": "ex01",
+  "version": "1.0.0",
+  "description": "1. 프로젝트 생성\r 2. 프로젝트 이동\r 3. 프로젝트 초기화: 프로젝트 메니페스트 파일(package.json)를 생성",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
